@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727162297422",
+    "project_id": "fepic-stock",
+    "storage_bucket": "fepic-stock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727162297422:android:c72520a20b5a3a84e5371f",
+        "android_client_info": {
+          "package_name": "com.siliconleaf.fepic_stock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727162297422-rjpj7rrhmamnmkkvhrnosjkfntum1gs1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB3eXY3WX7H1zTNVIrbjjAIKIJMudgB2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727162297422-rjpj7rrhmamnmkkvhrnosjkfntum1gs1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
